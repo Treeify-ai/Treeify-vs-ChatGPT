@@ -1,0 +1,7 @@
+Feature                    ,ChatGPT                                               ,Treeify
+Requirement Handling       ,Requires manual input & careful prompting             ,Upload PRDs /n AI extracts testable elements
+Test Object Identification ,Needs multiple prompt refinements                     ,AI automatically identifies test objects & dependencies
+Test Scenario Coverage     ,Often lacks full coverage                             ,requires iterative tuning /n Generates comprehensive test scenarios with edge cases
+Refinement & Feedback      ,Must manually adjust test cases & prompt again        ,AI-human collaboration with guided refinements
+Test Case Formatting       ,Manual copy-pasting                                   ,inconsistent structure /n Auto-formatted test cases (Traditional / BDD / JSON)
+Export & Integration       ,Requires manual copy-pasting into Excel/TestRail/Jira ,One-click export to Excel/JSON
